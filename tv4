@@ -1,4 +1,4 @@
-#EXM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lj4zdkN/353eff3f0edc8ce0fe5be355725917b2.png" group-title="INDO LOKAL",iNews
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDO LOKAL",I NEWS
